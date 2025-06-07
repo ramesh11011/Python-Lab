@@ -1,9 +1,3 @@
-Absolutely, Ramesh! Here’s a single file version of the README.md content. You can copy and paste this directly into a file named README.md and upload it to your GitHub repository.
-
-⸻
-
-📂 README.md
-
 # 🐍 Python Lab
 
 Welcome to **Python Lab**, a personal repository for all my Python programming practice, projects, and documentation. This repository serves as a structured and growing collection of Python scripts, tutorials, and references that I use to improve and master the language.
