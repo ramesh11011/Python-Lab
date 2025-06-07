@@ -128,8 +128,3 @@ This repository is licensed under the MIT License.
 
 This is a personal learning repo. You can fork, star, or suggest improvements via pull requests or issues.
 
-⸻
-
----
-
-Let me know if you want me to help create a license file, `.gitignore`, or organize folder templates as well!
