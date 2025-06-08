@@ -7,3 +7,4 @@ mylist = [ele for ele in range(5)]
 mylist1 = [int(ele) for ele in input().split()]
 print(mylist)
 print(mylist1)
+
