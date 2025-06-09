@@ -7,6 +7,6 @@ print(mystr1.count("a"))
 
 mystr2 = mystr1.split()
 mystr3 = mystr1.strip()
-print(mystr3)
+print(mystr3) 
 print(mystr2)
 print(mystr, ord(mystr), chr(ord(mystr)+3))
